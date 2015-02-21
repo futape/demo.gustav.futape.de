@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: text/plain; charset=utf-8");
 
-require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "futape", "gustav", "GustavDest.php"));
+require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "gustav", "src", "futape", "gustav", "GustavDest.php"));
 
 use futape\gustav\GustavDest;
 

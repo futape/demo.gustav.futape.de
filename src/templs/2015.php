@@ -1,6 +1,6 @@
 <?php
-    require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "futape", "gustav", "GustavBase.php"));
-    require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "futape", "gustav", "Gustav.php"));
+    require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "gustav", "src", "futape", "gustav", "GustavBase.php"));
+    require_once implode(DIRECTORY_SEPARATOR, array(rtrim($_SERVER["DOCUMENT_ROOT"], DIRECTORY_SEPARATOR), "php", "gustav", "src", "futape", "gustav", "Gustav.php"));
     
     use futape\gustav\GustavBaseHooks;
     use futape\gustav\Gustav;
@@ -24,5 +24,5 @@
 </main>
 
 <footer>
-    Copyright &copy; <?php echo date("Y", !is_null($gv["src"]->getBlock("_pub")) ? $gv["src"]->getBlock("_pub") : time()); ?> FooCorp &bull; Powered by <a href="https://github.com/futape/gustav">Gustav</a> &bull; Source code publically available on <a href="https://github.com/futape/gustav.futape.de">GitHub</a>.
+    Copyright &copy; <?php echo date("Y", !is_null($gv["src"]->getBlock("_pub")) ? $gv["src"]->getBlock("_pub") : time()); ?> FooCorp &bull; Powered by <a href="http://gustav.futape.de">Gustav</a> &bull; Source code publically available on <a href="https://github.com/futape/gustav.futape.de">GitHub</a>.
 </footer>
