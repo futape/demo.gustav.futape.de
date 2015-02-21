@@ -14,7 +14,7 @@
             <meta name="keywords" content="<?php echo GustavBaseHooks::escapeHtml(implode(",", $gv["src"]->getBlock("_tags"))); ?>" /><?php
         } ?>
         <meta name="description" content="<?php echo GustavBaseHooks::escapeHtml($gv["src"]->getDesc()); ?>" />
-        <link rel="stylesheet" href="/css/normalize.css" />
+        <link rel="stylesheet" href="/css/normalizecss/normalize.css" />
         <link rel="stylesheet" href="/css/main.css" />
     </head>
     <body><?php

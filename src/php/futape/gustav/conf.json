@@ -1,5 +1,5 @@
 {
-    "dest_dir":"/dest",
+    "dest_dir":"/blog",
     "src_dir":"/src",
     "templs_dir":"/templs",
     "404_error_doc":"/404.html",
@@ -7,9 +7,9 @@
     "log_file_max_size":"1m",
     "exit_on_error":true,
     "check_status":true,
-    "site_url":"http://example.com",
+    "site_url":"http://demo.gustav.futape.de",
     "enable_log":true,
-    "generator_search_recursive":false,
+    "generator_search_recursive":true,
     "replace_directory_separator":"/",
     "use_fallback_resource":false
 }
