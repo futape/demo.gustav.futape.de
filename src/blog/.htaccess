@@ -3,7 +3,7 @@
 DirectoryIndex index.html index.php
 DirectorySlash On
 
-ErrorDocument 404 /php/futape/gustav/generate.php
+ErrorDocument 404 /php/gustav/src/futape/gustav/generate.php
 
 <IfModule mod_rewrite.c>
     RewriteEngine On
