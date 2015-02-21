@@ -7,7 +7,7 @@
 ?>
 
 <header>
-    <h1><a href="/">gustav.futape.de</a></h1>
+    <h1><a href="/">demo.gustav.futape.de</a></h1>
     <p class="subtitle">Showcasing Gustav</p>
     <nav>
         <ul>
@@ -24,5 +24,5 @@
 </main>
 
 <footer>
-    Copyright &copy; <?php echo date("Y", !is_null($gv["src"]->getBlock("_pub")) ? $gv["src"]->getBlock("_pub") : time()); ?> FooCorp &bull; Powered by <a href="http://gustav.futape.de">Gustav</a> &bull; Source code publically available on <a href="https://github.com/futape/gustav.futape.de">GitHub</a>.
+    Copyright &copy; <?php echo date("Y", !is_null($gv["src"]->getBlock("_pub")) ? $gv["src"]->getBlock("_pub") : time()); ?> FooCorp &bull; Powered by <a href="http://gustav.futape.de">Gustav</a> &bull; Source code publically available on <a href="https://github.com/futape/demo.gustav.futape.de">GitHub</a>.
 </footer>

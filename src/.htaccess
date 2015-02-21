@@ -1,3 +1,6 @@
+Action application/x-httpd-php53 /cgi-sys/php53-fcgi-starter.fcgi
+AddType application/x-httpd-php53 .php .php5 .php53
+
 php_value magic_quotes_gpc 0
 php_value magic_quotes_runtime 0
 php_value magic_quotes_sybase 0
