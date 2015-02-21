@@ -1,0 +1,19 @@
+### BEGIN Gustav ###
+
+DirectoryIndex index.html index.php
+DirectorySlash On
+
+ErrorDocument 404 /php/futape/gustav/generate.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    Options +FollowSymLinks -Indexes
+    
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteCond %{REQUEST_FILENAME} ^((?:[^/]|/(?!$))*)/?$
+    RewriteCond %1/index.html !-f
+    RewriteCond %1/index.php !-f
+    RewriteRule $ - [R=404,L]
+</IfModule>
+
+### END Gustav ###

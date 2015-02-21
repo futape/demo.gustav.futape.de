@@ -1,0 +1,13 @@
+-----BEGIN GV BLOCK-----
+_pub: 2015-02-01T16:38:00+01:00
+_title: Bacon Ipsum
+_desc: An ipsum document in "Bacon Ipsum"-Style.
+_tags: test
+-----END GV BLOCK-----
+Bacon ipsum dolor amet ground round leberkas venison porchetta kielbasa ham tri-tip. Picanha sausage beef ribs brisket drumstick pancetta tri-tip tongue meatloaf frankfurter pork loin. T-bone ham hock tongue, cow beef ribs chuck rump hamburger. Pancetta tail ham hock ham boudin sausage rump corned beef beef ribs kielbasa. Ham tail sausage beef pastrami landjaeger kielbasa. Brisket chuck frankfurter tail. Corned beef strip steak sirloin jowl filet mignon boudin pork chop ham hock pastrami ground round jerky chicken tongue pig meatloaf.
+
+Venison landjaeger hamburger spare ribs. Salami capicola cow drumstick prosciutto. Doner t-bone kevin tenderloin prosciutto meatball capicola ball tip rump bacon frankfurter ground round tail salami. Boudin ham hock chicken andouille, meatball bacon venison porchetta tongue. Pork belly leberkas brisket flank ham jerky.
+
+Bacon pastrami boudin, porchetta bresaola brisket doner frankfurter chuck corned beef alcatra kielbasa pork chop. Pork belly ball tip bacon, porchetta strip steak doner rump boudin swine frankfurter short loin pork shank sausage tenderloin. Boudin corned beef pork chop drumstick pancetta andouille shank frankfurter sausage ham hock landjaeger tenderloin kielbasa picanha capicola. Strip steak picanha alcatra capicola beef ribs. Spare ribs kielbasa leberkas pork belly beef short ribs.
+
+(Source: http://baconipsum.com/)
